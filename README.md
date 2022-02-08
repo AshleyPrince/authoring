@@ -4,4 +4,4 @@
 - Externer Link
 - Interner Link
 - Bilder
-- Emojis :snorlax: :snorlax:
+- Emojis :fleur_de_lis: :fleur_de_lis:
